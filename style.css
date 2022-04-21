@@ -92,6 +92,8 @@ button:hover {
 
 .todo ul {
   display: flex;
+  flex-direction: column;
+  gap: 2rem;
 }
 
 .todo li {
@@ -103,7 +105,7 @@ button:hover {
   color: #333;
   width: 40rem;
   padding: 1rem;
-  border-radius: .2rem;
+  border-radius: 0.2rem;
 }
 
 .todo li span {
@@ -111,5 +113,5 @@ button:hover {
 }
 
 .todo li span:hover {
-  color: #D82148;
+  color: #d82148;
 }
