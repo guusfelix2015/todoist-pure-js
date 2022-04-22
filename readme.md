@@ -1,6 +1,6 @@
 ## 📄 Descrição
 
-Todoist App - Aplicação de adição de tarefas.
+Todolist App - Aplicação de adição de tarefas.
 
 ### <a href="https://todoistsimplejs.netlify.app/">Acesse a aplicação</a>
 
